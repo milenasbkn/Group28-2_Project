@@ -6,7 +6,9 @@ public class TC_Karaduran{
 
     public static void main(String[] args) {
 
-        System.out.println(method("Group28"););
+        System.out.println(method("Group28"));
+
+        //new lines
     }
 
 
